@@ -33,7 +33,7 @@
 
 # 🖥️ Công cụ Frontend (VueJS)
 
-1. **Node.js v20**
+1. **Node.js v22**
 
    - Cài từ [nodejs.org](https://nodejs.org/en/download) hoặc **nvm** (Node Version Manager) để quản lý nhiều phiên bản.
    - Kiểm tra:
@@ -41,13 +41,6 @@
      ```bash
      node -v
      npm -v
-     ```
-
-   - Cài **Yarn** hoặc **pnpm** nếu muốn build nhanh hơn:
-
-     ```bash
-     npm install -g yarn
-     npm install -g pnpm
      ```
 
 2. **Vue CLI / Vite** (Vite thường dùng cho Vue 3, nhanh hơn Vue CLI).
@@ -73,7 +66,7 @@
      - Vue Language Features (Volar)
      - ESLint
      - Prettier
-     - TailwindCSS IntelliSense (nếu dùng Tailwind)
+     - TailwindCSS IntelliSense 
 
 ---
 
@@ -91,7 +84,7 @@
    - Cấu hình cơ bản:
 
      ```bash
-     git config --global user.name "KayZ"
+     git config --global user.name "your_name"
      git config --global user.email "your_email@example.com"
      ```
 
