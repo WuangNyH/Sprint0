@@ -43,19 +43,15 @@
      npm -v
      ```
 
-2. **Vue CLI / Vite** (Vite thường dùng cho Vue 3, nhanh hơn Vue CLI).
+
+
+2. **Vite** (Vite thường dùng cho Vue 3, nhanh hơn Vue CLI).
+
 
    - Cài Vite:
 
      ```bash
      npm create vite@latest
-     ```
-
-   - Hoặc Vue CLI:
-
-     ```bash
-     npm install -g @vue/cli
-     vue --version
      ```
 
 3. **IDE/Editor**
