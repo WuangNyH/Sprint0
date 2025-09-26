@@ -1,6 +1,6 @@
-# Java – Formatting Rules (chuẩn Google/Oracle)
+# Java – Formatting Rules 
 
-- **Indent**: 4 spaces (không dùng tab).
+- **Indent**: 4 spaces 
 - **Braces**: mở cùng dòng, đóng xuống dòng (K&R):
 
   ```java
@@ -21,7 +21,6 @@
 
   - 1 dòng giữa các **field group**, **constructor**, **method**.
   - 1 dòng sau block import.
-
 - **Imports**:
 
   - Không dùng `*`.
