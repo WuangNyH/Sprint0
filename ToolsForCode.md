@@ -18,6 +18,11 @@
      - MapStruct Support
      - Spring boot JPA
      - Spring Web
+     - Spring Validation
+     - PosgreSQL Driver
+     - Flyway
+     - Spring Security
+     - Spring Dev-tools
 
 3. **Build Tool**
 
